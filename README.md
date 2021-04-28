@@ -1,2 +1,3 @@
-# phat-citi
-Hello
+# Phat Citi
+
+Hello and welcome to Phat Citi
